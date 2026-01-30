@@ -47,7 +47,6 @@ adx-dra.op.hicloud.com, PUB_HW_1003, RESELLER
 adx-drru.op.hicloud.com, PUB_HW_1003, RESELLER
 bidmachine.io, 114, RESELLER
 bidmachine.io, 67, RESELLER
-liftoff.io, 7f6945815e6, RESELLER
 hyperad.tech, 20, RESELLER
 adelement.com, 101, RESELLER
 advertising.com, 28886, RESELLER
